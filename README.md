@@ -1,2 +1,2 @@
-# maheswarim-work
-Maheswari Manoharan Github
+#
+Accomplished Backend Developer with experience in designing and deploying robust, scalable backend solutions. Proficient in Java and Python, with extensive expertise in developing Microservices and REST APIs using cloud-based architectures on AWS. Proven track record of enhancing system performance and reliability through solid backend engineering principles and best practices. Passionate about building efficient systems that drive business growth and operational excellence.
