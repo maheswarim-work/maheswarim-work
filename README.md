@@ -1,6 +1,6 @@
 # Hi, I'm Maheswari 👋
 
-Accomplished software engineer with experience in designing, developing and deploying robust, scalable backend solutions. Proficient in Python and other programming languages, with extensive expertise in developing Microservices and REST APIs using cloud-based event-driven architectures on AWS. Proven track record of enhancing system performance and reliability through solid backend engineering principles and best practices. Passionate about building efficient systems that drive business growth and operational excellence.
+Accomplished software engineer specializing in designing, developing, and deploying robust, scalable backend systems. Proficient in Python and other modern programming languages, with deep expertise in building microservices and REST APIs using cloud-based, event-driven architectures on AWS. Proven track record of improving system performance, reliability, and scalability through strong engineering principles and best practices. Passionate about delivering efficient, resilient solutions that drive business growth and operational excellence.
 
 <div align="center">
 
