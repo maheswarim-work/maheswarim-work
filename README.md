@@ -1,6 +1,6 @@
 # Hi, I'm Maheswari 👋
 
-"Software Engineer | Independent AI Projects • APIs • Cloud | Python, Java, AWS, Azure, Snowflake, Databricks"
+"Software Engineering Professional | Independent AI Projects • APIs • Cloud | Python, Java, AWS, Azure"
 
 As a Software Engineering professional with a Master’s in Computer Science, I bring 12+ years of experience across industries such as commercial/specialty insurance, automotive and employment background verification. I enjoy solving real-world problems by designing event-driven microservices, serverless applications, and APIs that are scalable, reliable, and easy to maintain.
 
