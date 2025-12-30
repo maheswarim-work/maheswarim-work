@@ -8,12 +8,6 @@ Software engineering professional specializing in backend systems, applied AI, a
 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=maheswarim-work)
 
-  ## 🚀 GitHub Stats
-
-  ![Maheswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswarim-work&show_icons=true&theme=default)
-
   ![GitHub Streak](https://streak-stats.demolab.com/?user=maheswarim-work)
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maheswarim-work&theme=flat)
 
 </div>
