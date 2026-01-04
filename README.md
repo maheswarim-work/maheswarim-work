@@ -1,8 +1,6 @@
 # Hi, I'm Maheswari 👋
 
-"Software Engineering Professional | Independent AI Projects • APIs • Cloud | Python, AWS"
-
-Software engineering professional specializing in backend systems, applied AI, and MLOps enablement across AWS, Azure, and modern data platforms.
+"Software Engineer | Backend APIs & Cloud-Native Systems | Python | AWS | Applied AI | MLOps"
 
 <div align="center">
 
