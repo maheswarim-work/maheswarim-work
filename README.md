@@ -1,6 +1,6 @@
 # Hi, I'm Maheswari 👋
 
-Software Engineer | Backend APIs & Cloud-Native Systems | Python | AWS | Applied AI | MLOps
+Software Engineer | Python | AWS | Distributed Systems | Applied AI | MLOps
 
 <div align="center">
 
